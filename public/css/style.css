@@ -42,7 +42,7 @@ html{
 .header_tittle_container span{
      height: 24px;
      width: 24px;
-     background-image: url(../assets/icons/logo_web.png);
+     background-image: url(../assets/icons/p_logo.jpg);
      background-repeat: no-repeat;
      background-position: center;
      background-size: contain;
@@ -184,7 +184,7 @@ main {
     height: 250px;
     width: 250px;
     margin: 15px auto;
-    background-image: url(../assets/images/foto_central.png);
+    background-image: url(../assets/images/smuel.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
