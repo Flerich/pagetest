@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    height: auto;
+}
+.upper_header{
+    display: flex;
+    align-items: center;
+}
+.header_tittle_container{
+    width: 30vw;
+    height: auto;
+    
+}
+.header_tittle_container span{
+    height: 34px;
+    width: 34px;
+}
+.header_tittle_container h1{
+    font-size: 2rem;
+}
+.nav_bar li{
+    font-size: 1.3rem;
+    line-height: 1.2rem;
+}
+.first_central_info{
+    display: flex;
+}
